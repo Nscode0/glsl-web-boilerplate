@@ -1,1 +1,1 @@
-make your own shaders inside ***shaders.frag*** and run the html using `live-server`
+make your own shaders inside ***shader.frag*** and run the html using `live-server`
