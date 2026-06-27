@@ -1,0 +1,17 @@
+:root {
+    --dynamic-width: 0px;
+    --dynamic-height: 0px;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(59, 59, 59);
+}
+.canva {
+    width: var(--dynamic-width);
+    height: var(--dynamic-height);
+    background-color: white;
+}
